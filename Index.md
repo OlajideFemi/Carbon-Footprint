@@ -6,9 +6,9 @@ There is an old saying that a problem well-defined is already half solved. Hence
 
 ## Features
 
-- Feature 1: A brief description.
-- Feature 2: A brief description.
-- Feature 3: A brief description.
+- Graph of Local Authorities in Regions Based on Geographic Proximity: A brief description.
+- Time series forecasting with GRU (Gated Recurrent Unit) models: A brief description.
+- Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization : A brief description.
 
 ## Quick Start
 
