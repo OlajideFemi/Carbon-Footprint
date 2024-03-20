@@ -1,6 +1,7 @@
-# Project Name
+# Carbon Footprint data Analysis
 
-Welcome to the Project Name GitHub Page! Here, we dive deep into how Project Name is making a difference in its field. This project aims to [short project description].
+Welcome to the Carbon footprint Data Analysis GitHub Page! Here, I dive deep into how Data Analytics is making a difference in the field of De-carbonization and Emissions reduction. This project aims to present a data driven approach on carbon emissions within the United kingdom that involves time series forecasting with 
+GRU (Gated Recurrent Unit) models, and possibly some geographical data analysis and community detection using network analysis methods.
 
 ## Features
 
