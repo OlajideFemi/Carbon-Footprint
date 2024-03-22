@@ -24,8 +24,8 @@ For detailed setup instructions, visit our [Installation Guide](/installation).
 
 ## Contribution
 
-Interested in contributing? We love your enthusiasm! Check out our [Contribution Guidelines](/contributing) for more information.
+Interested in contributing? I love your enthusiasm! Check out my [Contribution Guidelines](/contributing) for more information.
 
 ## License
 
-Project Name is made available under the [MIT License](/license).
+Carbon Footprint Data Analysis is made available under the [MIT License](/license).
