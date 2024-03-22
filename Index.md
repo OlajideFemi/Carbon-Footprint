@@ -6,8 +6,8 @@ There is an old saying that a problem well-defined is already half solved. Hence
 
 ## Features
 
-- Graph of Local Authorities in Regions Based on Geographic Proximity: A brief description.
-- Time series forecasting with GRU (Gated Recurrent Unit) models: A brief description.
+- Graph of Local Authorities in Regions Based on Geographic Proximity.
+- Time series forecasting with GRU (Gated Recurrent Unit) models.
 - Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization : 
 
 	
