@@ -10,7 +10,7 @@ There is an old saying that a problem well-defined is already half solved. Hence
 ![Graph of Local Authorities in Regions Based on Geographic Proximity](image.png)
   
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
-- Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization : 
+- Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization 
 
 	
 
