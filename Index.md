@@ -9,7 +9,7 @@ There is an old saying that a problem well-defined is already half solved. Hence
 - Graph of Local Authorities in Regions Based on Geographic Proximity.
 ![Graph of Local Authorities in Regions Based on Geographic Proximity](image_.png)
 
-- Graph of Local Authorities in Regions Based on Geographic Proximity Gaussian Mixture Models Clusters visualization.
+- Graph of Local Authorities in Regions Based on Geographic Proximity Gaussian Mixture Models Clusters.
 ![Graph of Local Authorities in Regions Based on Geographic Proximity](gmm.png)
   
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
