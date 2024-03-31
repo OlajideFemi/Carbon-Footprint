@@ -14,6 +14,7 @@ There is an old saying that a problem well-defined is already half solved. Hence
   
 - Plot of Various emission sources and trends over time.
 ![Plot of Emission for different sources](Annual Emission trends for sectors.png)
+
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
 - Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization 
 
