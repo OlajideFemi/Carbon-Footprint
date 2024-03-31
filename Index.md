@@ -1,6 +1,6 @@
 # Carbon Footprint Data Analysis
 
-Welcome to my Carbon Footprint Data Analysis GitHub Page! Here, I explore how Data Analytics is making a difference in Decarbonization and Emission Reduction. This project aims to present a data-driven approach to analyzing carbon emissions within the United Kingdom. It includes time series forecasting with GRU (Gated Recurrent Unit) models, as well as geographical data analysis and community detection using network analysis methods.
+Welcome to my Carbon Footprint Data Analysis GitHub Page! Here, I explore how Data Analytics is making a difference in Decarbonization and Emission Reduction. This project aims to present a data-driven approach to analyzing carbon emissions. It includes time series forecasting with GRU (Gated Recurrent Unit) models, as well as geographical data analysis and community detection using network analysis methods.
 
 There is an old saying that a problem well-defined is already half solved. Hence, I'll start by cleaning the data and simply graphing it to visually observe the nature of the underlying pattern.
 
@@ -12,6 +12,8 @@ There is an old saying that a problem well-defined is already half solved. Hence
 - Graph of Local Authorities in Regions Based on Geographic Proximity Gaussian Mixture Models Clusters.
 ![Graph of Local Authorities in Regions Based on Geographic Proximity](gmm.png)
   
+- Plot of Various emission sources and trends over time.
+![Plot of Emission for different sources](Annual Emission trends for sectors.png)
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
 - Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization 
 
