@@ -15,7 +15,11 @@ There is an old saying that a problem well-defined is already half solved. Hence
 - Plot of Various emission sources and trends over time.
 ![Plot of Emission for different sources](Annual_Emission_trends_for_sectors.png)
 
+- Map of total Emission by region.
+![Map of Emission by Region](map_of_total_emissions_region_1.png)
+
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
+![Time series forecasting with GRU](3.png)
   
 - Emissions Data Clusters of KMeans, DBScan, Gaussian Mixture Models visualization 
 
@@ -23,11 +27,11 @@ There is an old saying that a problem well-defined is already half solved. Hence
 
 ## Quick Start
 
-Get up and running with Project Name in just a few steps:
+Get up and running with Carbon footprint analysis in just a few steps:
 
-1. Step one
-2. Step two
-3. Step three
+1. Step one: load the dataset into a pandas dataframe
+2. Step two: Clean the date, filter out duplicates
+3. Step three: Implement the various algorithms
 
 For detailed setup instructions, visit our [Installation Guide](/installation).
 
