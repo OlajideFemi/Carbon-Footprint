@@ -18,6 +18,9 @@ There is an old saying that a problem well-defined is already half solved. Hence
 - Map of total Emission by region.
 ![Map of Emission by Region](map_of_total_emissions_region_1.png)
 
+- Plot of Local Authorities in West Midlands Based Emissions in 2005 against 2021.
+![Plot of Local Authorities in West Midlands Based Emissions in 2005 against 2021](emissions_level_2005_2021.png)
+  
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
 ![Time series forecasting with GRU](3.png)
   
