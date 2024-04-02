@@ -20,13 +20,17 @@ There is an old saying that a problem well-defined is already half solved. Hence
 
 - Plot of Local Authorities in West Midlands Based Emissions in 2005 against 2021.
 ![Plot of Local Authorities in West Midlands Based Emissions in 2005 against 2021](emissions_level_2005_2021.png)
-  
-- Time series forecasting with GRU (Gated Recurrent Unit) models.
-![Time series forecasting with GRU](3.png)
+
+
+
 
 The evidence is clear: the time for action is now. According to the Intergovernmental Panel on Climate Change (IPCC), halving emissions by 2030 is imperative to address climate change effectively. The IPCC's Sixth Assessment Report Working Group III (AR6 WGIII) emphasizes the urgency of this goal.
 
 For more information, please refer to the IPCC's press release dated April 4, 2022, available at: [https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/](https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/)
+
+  
+- Time series forecasting with GRU (Gated Recurrent Unit) models.
+![Time series forecasting with GRU](3.png)
 
 
 
