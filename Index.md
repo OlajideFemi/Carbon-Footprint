@@ -28,9 +28,16 @@ The evidence is clear: the time for action is now. According to the Intergovernm
 
 For more information, please refer to the IPCC's press release dated April 4, 2022, available at: [https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/](https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/)
 
+- Goal for 2030.
+![Emissions Goal for 2030 ](aim_for_2030.png)
+
+
   
 - Time series forecasting with GRU (Gated Recurrent Unit) models.
 ![Time series forecasting with GRU](3.png)
+
+
+
 
 
 
