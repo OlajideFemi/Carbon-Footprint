@@ -13,7 +13,7 @@ There is an old saying that a problem well-defined is already half solved. Hence
 ![Graph of Local Authorities in Regions Based on Geographic Proximity](gmm.png)
   
 - Plot of Various emission sources and trends over time.
-![Plot of Emission for different sources]()
+![Plot of Emission for different sources](Annual_Emission_trends_for_sectors.png)
 
 - Map of total Emission by region.
 
