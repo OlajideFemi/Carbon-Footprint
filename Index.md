@@ -16,7 +16,7 @@ There is an old saying that a problem well-defined is already half solved. Hence
 ![Plot of Emission for different sources]()
 
 - Map of total Emission by region.
-![Map of Emission by Region](map_of_total_emissions_region_1.png)
+
   
 - Map of total Emission by region.
 ![Map of Emission by Region](map_of_total_emissions_region_1.png)
