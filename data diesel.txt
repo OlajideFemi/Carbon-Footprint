@@ -1,0 +1,96 @@
+Thursday, September 1, 2022	 	 	 	11804	 	11805.8	 	1.8	 
+Friday, September 2, 2022	 	 	 	11805.8	 	11811.7	 	5.9	 
+Saturday, September 3, 2022	 	 	 	11811.7	 	11814.6	 	2.9	 
+Sunday, September 4, 2022	 	 	 	11814.6	 	11816.5	 	1.9	 
+Monday, September 5, 2022	 	 	 	11816.5	 	11820.5	 	4	 
+Tuesday, September 6, 2022	 	 	 	11820.5	 	11820.5	 	0	 
+Wednesday, September 7, 2022	 	 	 	11820.5	 	11823.3	 	2.8	 
+Thursday, September 8, 2022	 	 	 	11823.3	 	11823.3	 	0	 
+Friday, September 9, 2022	 	 	 	11823.3	 	11826.9	 	3.6	 
+Saturday, September 10, 2022	 	 	 	11826.9	 	11831.1	 	4.2	 
+Sunday, September 11, 2022	 	 	 	11831.1	 	11833.4	 	2.3	 
+Monday, September 12, 2022	25000	 	 	11833.4	 	11833.4	 	0	 
+Tuesday, September 13, 2022	 	 	 	11833.4	 	11836.9	 	3.5	 
+Wednesday, September 14, 2022	 	 	 	11836.9	 	11838.9	 	2	11833.3
+Thursday, September 15, 2022	 	 	 	11838.9	 	11840.9	 	2	11840.4
+Friday, September 16, 2022	 	 	 	11840.9	 	11845.1	 	4.2	 
+Saturday, September 17, 2022	 	 	 	11845.1	 	11849.2	 	4.1	 
+Sunday, September 18, 2022	 	 	 	11849.2	 	11852.1	 	2.9	 
+Monday, September 19, 2022	 	 	 	11852.1	 	11856.2	 	4.1	 
+Tuesday, September 20, 2022	20000	 	 	11856.2	 	11859	 	2.8	 
+Wednesday, September 21, 2022	 	 	 	11859	 	11862.6	 	3.6	 
+Thursday, September 22, 2022	 	 	 	11862.6	 	11865.5	 	2.9	 
+Friday, September 23, 2022	 	 	 	11865.5	 	11869.5	 	4	 
+Saturday, September 24, 2022	40000	750 per liter	53.33	11869.5	 	11872.9	 	3.4	 
+Sunday, September 25, 2022	 	 	 	11872.9	 	11876.9	 	4	 
+Monday, September 26, 2022	 	 	 	11876.9	 	11881.4	 	4.5	 
+Tuesday, September 27, 2022	 	 	 	11881.4	 	11885.1	 	3.7	 
+Wednesday, September 28, 2022	 	 	 	11885.1	 	11888	 	2.9	 
+Thursday, September 29, 2022	 	 	 	11888	 	11891.4	 	3.4	 
+Friday, September 30, 2022	 	 	 	11891.4	 	11896.3	 	4.9	 
+Saturday, October 1, 2022	 	 	 	11896.3	 	11900.9	 	4.6	 
+Friday, July 1, 2022	 	 	 	11655.9	 	11663	HGS	7.1	 
+Saturday, July 2, 2022	 	 	 	11663	 	11665.7	 	2.7	 
+Sunday, July 3, 2022	 	 	 	11665.7	 	11668.5	 	2.8	 
+Monday, July 4, 2022	 	 	 	11668.5	 	 	 	-11668.5	 
+Tuesday, July 5, 2022	 	 	 	 	 	 	 	0	 
+Wednesday, July 6, 2022	17,000	21.25	800.00	 	 	11676.1	 	11676.1	 
+Thursday, July 7, 2022	 	 	 	11676.1	 	11679	 	2.9	 
+Friday, July 8, 2022	 	 	 	11679	 	11679	 	0	 
+Saturday, July 9, 2022	 	 	 	11679	 	11681.1	 	2.1	 
+Sunday, July 10, 2022	 	 	 	11681.1	 	11684.7	 	3.6	 
+Monday, July 11, 2022	 	 	 	11684.7	 	11684.7	 	0	 
+Tuesday, July 12, 2022	 	 	 	11684.7	 	11684.7	 	0	 
+Wednesday, July 13, 2022	 	 	 	11684.7	 	11686.7	 	2	 
+Thursday, July 14, 2022	 	 	 	11686.7	 	11689.2	 	2.5	 
+Friday, July 15, 2022	 	 	 	11689.2	 	11689.2	 	0	 
+Saturday, July 16, 2022	 	 	 	11689.2	 	11690.4	 	1.2	 
+Sunday, July 17, 2022	 	 	 	11690.4	 	11693.2	 	2.8	 
+Monday, July 18, 2022	 	 	 	11693.2	 	11695.8	 	2.6	 
+Tuesday, July 19, 2022	 	 	 	11695.8	 	11695.8	 	0	 
+Wednesday, July 20, 2022	 	 	 	11695.8	 	11696	 	0.2	 
+Thursday, July 21, 2022	 	 	 	11696	 	11698.9	 	2.9	 
+Friday, July 22, 2022	 	 	 	11698.9	 	11700.9	 	2	 
+Saturday, July 23, 2022	 	 	 	11700.9	 	11703	 	2.1	 
+Sunday, July 24, 2022	 	 	 	11703	 	11706.9	 	3.9	 
+Monday, July 25, 2022	 	 	 	11706.9	 	11709.3	 	2.4	 
+Tuesday, July 26, 2022	 	 	 	11709.3	 	11712	 	2.7	 
+Wednesday, July 27, 2022	 	 	 	11712	 	11714.8	 	2.8	 
+Thursday, July 28, 2022	 	 	 	11714.8	 	11717.2	 	2.4	 
+Friday, July 29, 2022	 	 	 	11717.2	 	11720.2	 	3	 
+Saturday, July 30, 2022	 	 	 	11720.2	 	11724.1	 	3.9	 
+Sunday, July 31, 2022	20000	760	26.32	11724.1	 	11727.9	 	3.8	 
+Monday, May 30, 2022	700	20000	28.57	11573.2	 	11576.3	7:02PM	3.1	 	186	
+Tuesday, May 31, 2022	 	 	 	11576.3	 	11578.7	8:12PM	2.4	 		
+Wednesday, June 1, 2022	 	 	 	11578.7	 	11583.3	6:56PM	4.6	 		
+Thursday, June 2, 2022	 	 	 	11583.3	 	11585.8	 	2.5	 		
+Friday, June 3, 2022	 	 	 	11585.8	 	11585.8	HGS @ CAMP	0	 		
+Saturday, June 4, 2022	 	 	 	11585.8	 	11591.8	4:50PM	6	 		
+Sunday, June 5, 2022	 	 	 	11591.8	 	11591.8	Diesel Scacity	0	 		
+Monday, June 6, 2022	 	 	 	11591.8	 	11595.1	7:15PM	3.3	 	10:29pm	
+Tuesday, June 7, 2022	 	 	 	11595.1	 	11598.2	 	3.1	 		
+Wednesday, June 8, 2022	 	 	 	11598.2	11599.9	11602.3	 	4.1	 		
+Thursday, June 9, 2022	 	 	 	11602.3	 	11602.3	nepa	0	 		
+Friday, June 10, 2022	 	 	 	11602.3	 	11605.8	 	3.5	 		
+Saturday, June 11, 2022	 	 	 	11605.8	 	11605.8	nepa	0	 		
+Sunday, June 12, 2022	 	 	 	11605.8	 	11609.4	6:55pm	3.6	 		
+Monday, June 13, 2022	 	 	 	11609.4	 	11612.4	 	3	 		
+Tuesday, June 14, 2022	 	 	 	11614.6	 	11614.6	 	0	 		
+Wednesday, June 15, 2022	 	 	 	11614.6	 	11618.1	 	3.5	 		
+Thursday, June 16, 2022	 	 	 	11618.1	11620.9	11620.9	 	2.8	 		
+Friday, June 17, 2022	 	 	 	11620.9	 	11624.9	 	4	 		
+Saturday, June 18, 2022	 	 	 	11624.9	 	11627.9	 	3	 		
+Sunday, June 19, 2022	 	 	 	11627.9	 	11631.6	 	3.7	 		
+Monday, June 20, 2022	 	 	 	11631.6	 	11634.7	 	3.1	 		
+Tuesday, June 21, 2022	 	 	 	11634.7	 	11634.8	 	0.1	 		
+Wednesday, June 22, 2022	 	 	 	11634.8	 	11634.8	 	0	 		
+Thursday, June 23, 2022	 	 	 	11634.8	 	11637.4	 	2.6	 		
+Friday, June 24, 2022	 	 	 	11637.4	 	11637.4	 	0	 		
+Saturday, June 25, 2022	 	 	 	11637.4	 	11641.2	 	3.8	 		
+Sunday, June 26, 2022	 	 	 	11641.2	 	11644.9	 	3.7	 		
+Monday, June 27, 2022	 	 	 	11644.9	 	11647.7	 	2.8	 		
+Tuesday, June 28, 2022	 	 	 	11647.7	 	11649.1	 	1.4	 		
+Wednesday, June 29, 2022	 	 	 	11649.1	 	11653.4	 	4.3	 		
+Thursday, June 30, 2022	 	 	 	11653.4	 	11655.9	 	2.5	 		
+Friday, July 1, 2022	 	 	 	11655.9	 	11663	HGS @ home	7.1	 		
+Saturday, July 2, 2022	 	 	 	11663	 	 	 	-11663	 	
